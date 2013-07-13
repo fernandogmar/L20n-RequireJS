@@ -2,7 +2,7 @@ L20n-RequireJS
 ==============
 (keywords: l20n, l10n, localization, requirejs, plugin)
 
-A simple way of using [l20n](https://github.com/l20n/l20n.js) with [RequireJS](http://requirejs.org/). I hope it would be useful for you too, any suggestion will be welcome.
+A simple way of using [l20n](https://github.com/l20n/l20n.js) with [RequireJS](http://requirejs.org/). I hope it would be useful for you too, any suggestion will be welcomed.
 
 ## L20nCtx Plugin
 
