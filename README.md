@@ -21,7 +21,7 @@ define([l20nCtx!locales/exampleLocale-es.l20n], function(exampleLocaleCtx){
 });
 ```
 
-* We can write a template for the name. In that case we can specify the localization and the default extension in the RequireJS configuration (full example example/config.js):
+* We can write a template for the name. In that case we can specify the localization and the default extension in the RequireJS configuration (full example [example/config.js](https://github.com/fernandogmar/L20n-RequireJS/blob/master/example/config.js)):
 
 ```javascript
 config: {
@@ -54,11 +54,11 @@ define([l20nCtx!locales/{{locale}}/exampleLocale], function(exampleLocaleCtx){
 * `extension`: the default extension of a file if none is specified. By default 'l20n'.
 * `prefix`, `suffix`: used to specify the locale in the the path (e.g. {{locale}}). By default: '{{', '}}'.
 
-(full example example/config.js)
+(full example [example/config.js](https://github.com/fernandogmar/L20n-RequireJS/blob/master/example/config.js))
 
 ### Requirements
 
-Configure L20n dependency in your project as you can see in example/config
+Configure L20n dependency in your project as you can see in [example/config.js](https://github.com/fernandogmar/L20n-RequireJS/blob/master/example/config.js)
 
 
 ### Testing
